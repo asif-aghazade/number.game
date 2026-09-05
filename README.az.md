@@ -35,4 +35,6 @@ chmod +x game.sh
 
 
 
+# Hər iki scriptə avtomatik icra (x) icazəsi vermək
+bash automatic.sh
 
