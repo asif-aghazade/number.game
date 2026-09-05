@@ -39,6 +39,6 @@ chmod +x az/game.sh
 ```bash
 chmod +x en/game.sh
 ./en/game.sh
-```
+``
 
 
