@@ -29,4 +29,7 @@ chmod +x oyun.sh
 /bin/bash
 chmod +x game.sh
 ./game.sh
-``
+
+
+# Automatically give both scripts execute (x) permission
+bash automatic.sh
